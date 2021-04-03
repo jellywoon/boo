@@ -9,5 +9,12 @@ for i in range(n):
         strings.append(string)
 for k in strings:
     print(k)
-
+print(6)
+print(6)
+print(6)
+print(6)
+print(6)
+print(6)
+print(6)
+print(6)
 
